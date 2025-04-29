@@ -28,3 +28,14 @@ Bu proje, gezi ve seyahat temalı içerikleri tanıtmak için geliştirilmiş mo
 - Dinamik sayaçlar ve hareketli metinler
 - Kullanımı kolay ve sade kullanıcı arayüzü
 - SEO dostu sayfa yapısı
+---
+
+## 🚀 Kurulum ve Başlatma
+
+Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
+
+1. **Projeyi klonlayın:**
+
+```bash
+git clone https://github.com/kullanici-adi/travel.git
+cd travel
